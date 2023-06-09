@@ -1,3 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="SampleApp.Test"/>
+  </ItemGroup>
+
 </Project>
