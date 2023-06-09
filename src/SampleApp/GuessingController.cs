@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SampleApp;
 
+[ApiController]
 public sealed class GuessingController : ControllerBase
 {
     private const string GuessRouteName = "guessRoute";

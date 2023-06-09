@@ -19,6 +19,7 @@
   
   <ItemGroup>
     <Using Include="InjectedTests" />
+    <Using Include="Moq" />
     <Using Include="Xunit" />
   </ItemGroup>
 
