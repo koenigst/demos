@@ -18,6 +18,7 @@
   </ItemGroup>
   
   <ItemGroup>
+    <Using Include="InjectedTests" />
     <Using Include="Xunit" />
   </ItemGroup>
 
